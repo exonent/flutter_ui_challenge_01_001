@@ -1,6 +1,6 @@
-# flutter_ui_challenge_01_01
+# Flutter UI Challenge: 01 Difficulty & Challenge 01
 
-The Flutter UI Challenges!
+The Flutter UI Challenges! From Low to Pro with the best practices.
 
 ## What I am doing?
 
