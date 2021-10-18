@@ -8,15 +8,6 @@ const kBackgroundColor = Color(0xFFFFFFFF);
 const kTextGrey = Color(0xFFA5A3A3);
 
 // ################## Widgets ##################
-const kButonTextStyle = TextStyle(
-  fontSize: 50.0,
-  fontWeight: FontWeight.w900,
-);
-
-const kLargeButtonTextStyle = TextStyle(
-  fontSize: 25.0,
-  fontWeight: FontWeight.bold,
-);
 
 // ################## Text ##################
 const title = "dribbble";

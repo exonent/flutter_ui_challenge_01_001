@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ui_challenge_01_01/Constants/constants.dart';
+import 'package:flutter_ui_challenge_01_01/Constants/assets.dart';
 
 void main() {
   runApp(const MyApp());
@@ -155,7 +156,7 @@ class WaveTopPart extends StatelessWidget {
             child: const Image(
               height: 300,
               alignment: Alignment.bottomCenter,
-              image: AssetImage('assets/images/dribbleLogo.png'),
+              image: AssetImage(Assets.Logo0),
               color: Color.fromRGBO(255, 255, 255, 0.4),
               colorBlendMode: BlendMode.modulate,
             ),
